@@ -2,3 +2,4 @@ gen_venv/
 result/
 test.py
 __pycache__/
+.venv/
