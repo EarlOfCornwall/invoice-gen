@@ -51,6 +51,7 @@ seller = Counterparty(
 
 items = [
     ServiceItem("1", "Разработка сайта", "1", "50 000", "50 000"),
+    ServiceItem("2", "Техническая поддержка", "3", "5 000", "15 000"),
 ]
 
 invoice = Invoice(
