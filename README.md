@@ -27,7 +27,7 @@ Python-скрипт для генерации PDF-счетов на оплату
 
 ## Пример работы
 
-[![Результат](./Examples/Png_work_example.png)](.Examples/Work_example.pdf)
+[![Результат](./Examples/Png_work_example.png)](./Examples/Work_example.pdf)
 
 ## Структура проекта
 
